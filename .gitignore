@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+venv
+.git
+.idea
+currencies.csv
+.env
